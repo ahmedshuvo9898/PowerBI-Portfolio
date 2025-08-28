@@ -1,1 +1,1 @@
-![Travel Dashboard](images/travel_dashboard.png)
+Screenshot_7.png
